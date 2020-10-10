@@ -11,11 +11,11 @@ Features to add:
   * Validate that courses chosen allow graduation
   
 * Fill from transcript
- * Read printed pdf unnoficial transcript from my stevens Student Self Services
- * Find python (or some other) module that can do this
-  * Failed Modules
-   * PyPDF2
- * output, in organized format, the courses with course numbers and the time they were taken
+  * Read printed pdf unnoficial transcript from my stevens Student Self Services
+    * Find python (or some other) module that can do this
+    * Failed Modules
+      * PyPDF2
+  * output, in organized format, the courses with course numbers and the time they were taken
   
 * Find Courses that are available to take
 
